@@ -19,5 +19,5 @@ Unresolved questions :
 - The longer the machine run, the more result of data collected
 
 summary of data collected (attacks)
-- dionaea (5234) attacks
+- dionaea (381) attacks
 
